@@ -12,7 +12,7 @@
 	branch = master
 [submodule "Content/Private"]
 	path = Content/Private
-	url = https://github.com/robcog-iai/PrivateContent.git
+	url = https://github.com/abdelker/PrivateContent_MetaHuman.git
 	branch = master
 [submodule "Plugins/USemLog"]
 	path = Plugins/USemLog
@@ -33,3 +33,33 @@
 [submodule "Plugins/UProtobuf"]
 	path = Plugins/UProtobuf
 	url = https://github.com/robcog-iai/UProtobuf.git
+[submodule "UTFPublisher"]
+	path = Plugins/UTFPublisher
+	url = git@github.com:robcog-iai/UTFPublisher.git
+[submodule "Plugins/UIAIAvatar"]
+	path = Plugins/UIAIAvatar
+	url = https://github.com/code-iai/UIAIAvatar.git
+        branch = ai4hri
+[submodule "Plugins/UE4DTW"]
+	path = Plugins/UE4DTW
+	url = https://github.com/code-iai/UE4DTW.git
+	branch = master
+[submodule "Content/UIAIMetaHuman"]
+	path = Content
+	url = https://github.com/abdelker/UIAIMetaHuman.git
+	branch = master
+[submodule "Plugins/UROSBridge"]
+	path = Plugins/UROSBridge
+	url = https://github.com/robcog-iai/UROSBridge.git
+	branch = master
+[submodule "Plugins/UPIDController"]
+	path = Plugins/UPIDController
+	url = https://github.com/robcog-iai/UPIDController.git
+	branch = master
+[submodule "Plugins/UUtils"]
+	path = Plugins/UUtils
+	url = https://github.com/robcog-iai/UUtils.git
+	branch = master
+
+
+
