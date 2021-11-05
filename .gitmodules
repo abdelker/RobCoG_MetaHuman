@@ -45,7 +45,7 @@
 	url = https://github.com/code-iai/UE4DTW.git
 	branch = master
 [submodule "Content/UIAIMetaHuman"]
-	path = Content
+	path = Content/UIAIMetaHuman
 	url = https://github.com/abdelker/UIAIMetaHuman.git
 	branch = master
 [submodule "Plugins/UROSBridge"]
