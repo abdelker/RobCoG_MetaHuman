@@ -6,9 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="31db98ba-ecce-49cd-931a-35cfe02e62e7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Plugins/UIAIAvatar/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/UIAIAvatar/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/UIAIAvatar/Content/Blueprints/MyROSGameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/UIAIAvatar/Content/Blueprints/MyROSGameInstance.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/UIAIAvatar/Content/Blueprints/ThirdPersonAvatar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/UIAIAvatar/Content/Blueprints/ThirdPersonAvatar.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/UIAIAvatar/Content/RP_Character/00_rp_master/UE4_Mannequin_Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/UIAIAvatar/Content/RP_Character/00_rp_master/UE4_Mannequin_Skeleton.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="XThreadsFramesViewSplitterKey" value="0.41385135" />
     <property name="ezargs.lastUsed" value="" />
-    <property name="settings.editor.selected.configurable" value="Debugger.ObjectiveC" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="C++ Project.RobCoG">
@@ -272,7 +272,7 @@
       <workItem from="1635420287109" duration="2280000" />
       <workItem from="1635930937850" duration="1810000" />
       <workItem from="1635951973522" duration="6345000" />
-      <workItem from="1636027289021" duration="3456000" />
+      <workItem from="1636027289021" duration="4978000" />
     </task>
     <servers />
   </component>
