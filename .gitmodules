@@ -33,9 +33,9 @@
 [submodule "Plugins/UProtobuf"]
 	path = Plugins/UProtobuf
 	url = https://github.com/robcog-iai/UProtobuf.git
-[submodule "UTFPublisher"]
+[submodule "Plugins/UTFPublisher"]
 	path = Plugins/UTFPublisher
-	url = git@github.com:robcog-iai/UTFPublisher.git
+	url = https://github.com/robcog-iai/UTFPublisher.git
 [submodule "Plugins/UIAIAvatar"]
 	path = Plugins/UIAIAvatar
 	url = https://github.com/code-iai/UIAIAvatar.git
