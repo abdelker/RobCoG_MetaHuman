@@ -50,8 +50,8 @@
 	branch = master
 [submodule "Plugins/UROSBridge"]
 	path = Plugins/UROSBridge
-	url = https://github.com/robcog-iai/UROSBridge.git
-	branch = master
+	url = https://github.com/abdelker/UROSBridge.git
+	branch = bt-dev
 [submodule "Plugins/UPIDController"]
 	path = Plugins/UPIDController
 	url = https://github.com/robcog-iai/UPIDController.git
